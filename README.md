@@ -57,3 +57,54 @@ accuracy in predicting the categories.
 <img src="plots/Cummulative/Frequency.png" width="400" height="300"> <img src="plots/Cummulative/Top10.png" width="400" height = "300" align="right">
 <img src="plots/Cummulative/Like_Dislikes_Bar.png" width="400" height="300"> <img src="plots/Cummulative/Each Category.png" width="400" height = "300" align="right">
 <img src="plots/Cummulative/Top10_Caaat.png" width="400" height="250"> <img src="plots/Cummulative/Months.png" width="400" height = "300" align="right">
+
+<h4><center><b>II. POSSIBLE INSIGHTS</b></center></h4>
+1. In four of six countries[IN,FR,DE,CA] the median
+number of days for a published video to be
+trended is around 1 to 2 days. While the other two
+countries, US and GB have 6,12 days
+respectively.
+
+2. Month has no effect on the video that is being
+published, it varies from country to country and in
+India, most number of videos are posted in the
+month of June.
+
+3. There isn’t any effect of weekends on the number
+of videos published, but it has been a common
+trend that the highest number of videos have been
+published on Friday in any of the six countries.
+
+4. Time of posting in a day seems to be very
+important for publishing. From our analysis it has
+been observed that most number of videos are
+being posted between 13:00 to 16:00 hrs for all
+the countries.
+
+5. Here, India had the most viewership around 13:00
+and all the other countries had the most
+viewership from around 4:00 to 5:00 hrs of the
+day. The possible reason might be the time zone
+differences. As all the other countries are westrern
+parts, they have a common time zone, thus
+leading to a common result.
+
+6. We came to a conclusion that the videos which
+have more views are also observed to have more
+likes and dislikes.They are positively correlated.
+The same thing is valid even for videos of a
+particular category in all the countries.
+
+7. The top 5 channels in any category also have the
+top 5 viewership, likes and dislikes in most of the
+cases.
+
+8. ‘Entertainment’ has been the most famous
+category in all the 6 countries.
+
+9. Different countries have a different trend in how
+long a video trends. The United Kingdom has a
+longest trend duration of 35 days.
+
+10. Friday has also the highest viewership among
+weekdays.
