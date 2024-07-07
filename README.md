@@ -59,6 +59,7 @@ accuracy in predicting the categories.
 <img src="plots/Cummulative/Top10_Caaat.png" width="400" height="250"> <img src="plots/Cummulative/Months.png" width="400" height = "300" align="right">
 
 <h4><center><b>II. POSSIBLE INSIGHTS</b></center></h4>
+
 1. In four of six countries[IN,FR,DE,CA] the median
 number of days for a published video to be
 trended is around 1 to 2 days. While the other two
